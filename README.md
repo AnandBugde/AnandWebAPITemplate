@@ -17,8 +17,8 @@ Implement a custom authentication attribute or middleware that validates the API
 Use the [Authorize] attribute on your controllers or actions.
 Ensure that the API token is sent in the required header parameter (e.g., Authorization header).
 
-**Custom Logging:
-**
+**Custom Logging:**
+
 Integrate a logging library like Serilog or NLog into your project.
 Set up loggers in your controllers, services, or other components where logging is necessary.
 Customize log levels, log formats, and output sinks as needed.
@@ -48,8 +48,7 @@ Choose "Project Template" and follow the wizard, providing necessary metadata.
 Include all the necessary files, configurations, and dependencies in the template.
 Save the template.
 
-**Usage in Visual Studio 2022:
-**
+**Usage in Visual Studio 2022:**
 Install the project template in Visual Studio.
 Create a new project using the template.
 Customize the generated project based on your specific requirements.
